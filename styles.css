@@ -40,7 +40,6 @@ h1 {
     text-shadow: 2px 2px black;
 }
 
-
 h2{
     font-variant: small-caps;
 } 
@@ -58,6 +57,16 @@ span {
 /* Tutorial Notes */
 .tutorial {
     font-size: 12px;
+}
+
+/* link styles */
+a{
+    color: #0000cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
 }
 
 /* image styles */
